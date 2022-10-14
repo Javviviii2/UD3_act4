@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(216, 135, 238);
+  color: brown;
+}
+#biografia {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#poema {
+  font-family: "Brush Script MT", cursive;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
